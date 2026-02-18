@@ -1,0 +1,22 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", "SF Pro Text", "Helvetica Neue", "sans-serif";
+  --color-apple-bg: #F5F5F7;
+  --color-apple-text: #1D1D1F;
+  --color-apple-accent: #0071E3;
+}
+
+@layer base {
+  body {
+    @apply bg-white text-apple-text antialiased;
+  }
+}
+
+.glass {
+  @apply bg-white/70 backdrop-blur-xl border border-white/20;
+}
+
+.bento-card {
+  @apply bg-white p-6 rounded-[24px] shadow-sm hover:shadow-md transition-all duration-300 cursor-pointer border border-slate-100;
+}

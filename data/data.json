@@ -1,0 +1,409 @@
+{
+  "competitors": [
+    {
+      "metadata": {
+        "name": "Wellsaid",
+        "homepage": "https://www.wellsaid.io",
+        "last_crawl": "2026-02-18T16:58:45Z",
+        "status": "discovery_complete"
+      },
+      "discovery": {
+        "relevant_pages": [
+          "https://www.wellsaid.io/ai-voice-enterprise",
+          "https://www.wellsaid.io/ai-voice-pricing",
+          "https://www.wellsaid.io/features/ai-voices",
+          "https://www.wellsaid.io/features/collaboration",
+          "https://www.wellsaid.io/features/security",
+          "https://www.wellsaid.io/industries/product-apps",
+          "https://www.wellsaid.io/resources/blog/global-healthcare-leader-boosts-production-by-50-and-cuts-costs-in-half-with-wellsaid",
+          "https://www.wellsaid.io/resources/case-studies/arin-streamlines-training-production-with-wellsaid",
+          "https://www.wellsaid.io/resources/case-studies/motul-accelerates-global-e-learning-production-with-realistic-multilingual-ai-voices-from-wellsaid",
+          "https://www.wellsaid.io/resources/case-studies/powertrain-removes-production-bottlenecks-with-wellsaid",
+          "https://www.wellsaid.io/resources/case-studies/wellsaid-creates-engaging-product-videos-for-provoke",
+          "https://www.wellsaid.io/solutions/video-production",
+          "https://www.wellsaid.io/wsa-business-ent"
+        ]
+      },
+      "pricing": {
+        "plans": [
+          {
+            "name": "Creative",
+            "price": "50",
+            "credits": "720 downloads/yr"
+          },
+          {
+            "name": "Business",
+            "price": "160",
+            "credits": "1300 downloads/yr"
+          }
+        ]
+      },
+      "capabilities": [
+        "Studio TTS",
+        "Team Workspace",
+        "API"
+      ],
+      "scores": {
+        "innovation": 7,
+        "affordability": 5,
+        "feature_set": 6
+      }
+    },
+    {
+      "metadata": {
+        "name": "Descript",
+        "homepage": "https://www.descript.com",
+        "last_crawl": "2026-02-18T16:58:46Z",
+        "status": "discovery_complete"
+      },
+      "discovery": {
+        "relevant_pages": [
+          "https://www.descript.com/blog/article/best-tips-to-improve-the-audio-quality-of-a-recording",
+          "https://www.descript.com/enterprise",
+          "https://www.descript.com/pricing",
+          "https://www.descript.com/use-case/product-demo"
+        ]
+      },
+      "pricing": {
+        "plans": [
+          {
+            "name": "Free",
+            "price": "0",
+            "credits": "1 hr/mo"
+          },
+          {
+            "name": "Creator",
+            "price": "15",
+            "credits": "10 hrs/mo"
+          },
+          {
+            "name": "Pro",
+            "price": "30",
+            "credits": "30 hrs/mo"
+          }
+        ]
+      },
+      "capabilities": [
+        "Video Editing",
+        "Overdub (TTS)",
+        "Podcasting"
+      ],
+      "scores": {
+        "innovation": 7,
+        "affordability": 7,
+        "feature_set": 8
+      }
+    },
+    {
+      "metadata": {
+        "name": "Resemble",
+        "homepage": "https://www.resemble.ai",
+        "last_crawl": "2026-02-18T16:58:47Z",
+        "status": "discovery_complete"
+      },
+      "discovery": {
+        "relevant_pages": [
+          "https://www.resemble.ai/compare",
+          "https://www.resemble.ai/pricing"
+        ]
+      },
+      "pricing": {
+        "plans": [
+          {
+            "name": "Flex",
+            "price": "Pay-as-you-go",
+            "credits": "$0.0005/sec"
+          }
+        ]
+      },
+      "capabilities": [
+        "Voice Cloning",
+        "Deepfake Detection",
+        "API"
+      ],
+      "scores": {
+        "innovation": 9,
+        "affordability": 8,
+        "feature_set": 8
+      }
+    },
+    {
+      "metadata": {
+        "name": "Play",
+        "homepage": "https://play.ht",
+        "last_crawl": "2026-02-18T16:58:57Z",
+        "status": "discovery_complete"
+      },
+      "discovery": {
+        "relevant_pages": []
+      },
+      "pricing": {
+        "plans": [
+          {
+            "name": "N/A",
+            "price": "Shut Down",
+            "credits": "Acquired by Meta"
+          }
+        ]
+      },
+      "capabilities": [
+        "Historical TTS",
+        "Acquired"
+      ],
+      "scores": {
+        "innovation": 0,
+        "affordability": 0,
+        "feature_set": 0
+      }
+    },
+    {
+      "metadata": {
+        "name": "Elevenlabs",
+        "homepage": "https://elevenlabs.io",
+        "last_crawl": "2026-02-18T16:58:58Z",
+        "status": "discovery_complete"
+      },
+      "discovery": {
+        "relevant_pages": [
+          "https://elevenlabs.io/agents/technology",
+          "https://elevenlabs.io/blog/tvs-motor-multimodal-agents",
+          "https://elevenlabs.io/commercial-partner-program",
+          "https://elevenlabs.io/enterprise",
+          "https://elevenlabs.io/impact-program",
+          "https://elevenlabs.io/pricing"
+        ]
+      },
+      "pricing": {
+        "plans": [
+          {
+            "name": "Free",
+            "price": "0",
+            "credits": "10k"
+          },
+          {
+            "name": "Starter",
+            "price": "5",
+            "credits": "30k"
+          },
+          {
+            "name": "Creator",
+            "price": "22",
+            "credits": "100k"
+          }
+        ]
+      },
+      "capabilities": [
+        "Neural TTS",
+        "Voice Cloning",
+        "Dubbing",
+        "API"
+      ],
+      "scores": {
+        "innovation": 10,
+        "affordability": 7,
+        "feature_set": 9
+      }
+    },
+    {
+      "metadata": {
+        "name": "Murf",
+        "homepage": "https://murf.ai",
+        "last_crawl": "2026-02-18T16:58:58Z",
+        "status": "discovery_complete"
+      },
+      "discovery": {
+        "relevant_pages": [
+          "https://murf.ai/blog/voice-agent-prompt-design",
+          "https://murf.ai/case-studies/thinkproject",
+          "https://murf.ai/enterprise",
+          "https://murf.ai/enterprise?src=w_contact_sales_navbar",
+          "https://murf.ai/pricing",
+          "https://murf.ai/startup-program",
+          "https://murf.ai/voiceover/product-demos"
+        ]
+      },
+      "pricing": {
+        "plans": [
+          {
+            "name": "Free",
+            "price": "0",
+            "credits": "10 mins"
+          },
+          {
+            "name": "Creator",
+            "price": "29",
+            "credits": "2 hrs/mo"
+          },
+          {
+            "name": "Business",
+            "price": "99",
+            "credits": "8 hrs/mo"
+          }
+        ]
+      },
+      "capabilities": [
+        "Studio TTS",
+        "Emphasis Control",
+        "Google/Canva Integration"
+      ],
+      "scores": {
+        "innovation": 7,
+        "affordability": 6,
+        "feature_set": 8
+      }
+    },
+    {
+      "metadata": {
+        "name": "Cloud",
+        "homepage": "https://cloud.google.com/text-to-speech",
+        "last_crawl": "2026-02-18T16:58:59Z",
+        "status": "discovery_complete"
+      },
+      "discovery": {
+        "relevant_pages": [
+          "https://cloud.google.com/text-to-speech/pricing"
+        ]
+      },
+      "pricing": {
+        "plans": [
+          {
+            "name": "Standard",
+            "price": "4",
+            "credits": "per 1M chars"
+          },
+          {
+            "name": "Neural2",
+            "price": "16",
+            "credits": "per 1M chars"
+          },
+          {
+            "name": "Studio",
+            "price": "160",
+            "credits": "per 1M chars"
+          }
+        ]
+      },
+      "capabilities": [
+        "Neural TTS",
+        "WaveNet",
+        "LID",
+        "Studio Voices"
+      ],
+      "scores": {
+        "innovation": 8,
+        "affordability": 9,
+        "feature_set": 10
+      }
+    },
+    {
+      "metadata": {
+        "name": "Aws",
+        "homepage": "https://aws.amazon.com/polly",
+        "last_crawl": "2026-02-18T16:59:00Z",
+        "status": "discovery_complete"
+      },
+      "discovery": {
+        "relevant_pages": [
+          "https://aws.amazon.com/polly/features/?nc=sn&loc=3",
+          "https://aws.amazon.com/polly/pricing"
+        ]
+      },
+      "pricing": {
+        "plans": [
+          {
+            "name": "Standard",
+            "price": "4",
+            "credits": "per 1M chars"
+          },
+          {
+            "name": "Neural",
+            "price": "16",
+            "credits": "per 1M chars"
+          }
+        ]
+      },
+      "capabilities": [
+        "Neural TTS",
+        "Streaming",
+        "Speech Marks"
+      ],
+      "scores": {
+        "innovation": 8,
+        "affordability": 9,
+        "feature_set": 10
+      }
+    },
+    {
+      "metadata": {
+        "name": "Learn",
+        "homepage": "https://learn.microsoft.com/azure/ai-services/speech",
+        "last_crawl": "2026-02-18T16:59:00Z",
+        "status": "discovery_complete"
+      },
+      "discovery": {
+        "relevant_pages": []
+      },
+      "pricing": {
+        "plans": [
+          {
+            "name": "Free",
+            "price": "0",
+            "credits": "0.5M chars"
+          },
+          {
+            "name": "Standard",
+            "price": "15",
+            "credits": "per 1M chars"
+          }
+        ]
+      },
+      "capabilities": [
+        "Neural TTS",
+        "Custom Neural Voice",
+        "Batch Synthesis"
+      ],
+      "scores": {
+        "innovation": 8,
+        "affordability": 9,
+        "feature_set": 10
+      }
+    },
+    {
+      "metadata": {
+        "name": "Ibm",
+        "homepage": "https://www.ibm.com/cloud/watson-text-to-speech",
+        "last_crawl": "2026-02-18T16:59:02Z",
+        "status": "discovery_complete"
+      },
+      "discovery": {
+        "relevant_pages": [
+          "https://www.ibm.com/products/speech-embed-libraries"
+        ]
+      },
+      "pricing": {
+        "plans": [
+          {
+            "name": "Lite",
+            "price": "0",
+            "credits": "10k chars/mo"
+          },
+          {
+            "name": "Standard",
+            "price": "21.20",
+            "credits": "per 1M chars"
+          }
+        ]
+      },
+      "capabilities": [
+        "Neural TTS",
+        "Customization",
+        "Deployment Anywhere"
+      ],
+      "scores": {
+        "innovation": 6,
+        "affordability": 6,
+        "feature_set": 8
+      }
+    }
+  ]
+}
